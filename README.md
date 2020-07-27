@@ -1,4 +1,4 @@
-### Hi heret 👋, I am Igor Loredo
+### Hi here 👋, I am Igor Loredo
 
 <!--
 **IgorLoredo/IgorLoredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

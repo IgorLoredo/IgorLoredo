@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 
 [![E-mail](http://img.shields.io/badge/igorloredo@usp.br-red?logo=gmail&style=flat-square&logoColor=white)](mailto:igorloredo@usp.br)
+
+
+
+<img src="https://komarev.com/ghpvc/?username=IgorLoredo" alt="Igor Loredo" />

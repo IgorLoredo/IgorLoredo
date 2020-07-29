@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 
+[![E-mail](http://img.shields.io/badge/igorloredo@usp.brm-blue?logo=gmail&style=flat-square&logoColor=white)](mailto:igorloredo@usp.br)

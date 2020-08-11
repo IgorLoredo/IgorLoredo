@@ -1,4 +1,4 @@
-### Hi here 👋, I am Igor Loredo
+### Olá pessoal
 
 <!--
 **IgorLoredo/IgorLoredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<h5> Mue nome é Igor, sou estudande de Sistemas de informação pela Universidade de São Paulo e técnico em Meio ambiente pelo Instituto Federal da Bahia.<h5>
 
 [![E-mail](http://img.shields.io/badge/igorloredo@usp.br-red?logo=gmail&style=flat-square&logoColor=white)](mailto:igorloredo@usp.br)
 

@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 
 <img src="https://komarev.com/ghpvc/?username=IgorLoredo" alt="Igor Loredo" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorLoredo&layout=compact&hide=python" alt="Igor Loredo" />
+//<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorLoredo&layout=compact&hide=python" alt="Igor Loredo" />

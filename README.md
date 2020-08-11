@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <p> Meu nome é Igor, sou estudande de Sistemas de informação pela Universidade de São Paulo e técnico em Meio ambiente pelo Instituto Federal da Bahia.<p>
  <p>Sou entusiasta pelo ramo da tecnologia e procuros sempre aprender mais<p>
 
-<p>*Meus contatos: *<p>
-[![E-mail](http://img.shields.io/badge/igorloredo@usp.br-red?logo=gmail&style=flat-square&logoColor=white)](mailto:igorloredo@usp.br)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-loredo-b1b318194/)](https://www.linkedin.com/in/igor-loredo-b1b318194/)
+<p>Meus contatos: <p>
+[![E-mail](http://img.shields.io/badge/igorloredo@usp.br-red?logo=gmail&style=flat-square&logoColor=white)](mailto:igorloredo@usp.br)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-loredo-b1b318194/)](https://www.linkedin.com/in/igor-loredo-b1b318194/)
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorLoredo&layout=compact&hide=python" alt="Igor Loredo" /> -->

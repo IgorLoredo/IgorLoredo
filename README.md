@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-loredo-b1b318194/)](https://www.linkedin.com/in/igor-loredo-b1b318194/)
 [![E-mail](http://img.shields.io/badge/igorloredo@usp.br-red?logo=gmail&style=flat-square&logoColor=white)](mailto:igorloredo@usp.br)
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorLoredo&layout=compact&hide=python" alt="Igor Loredo" /> 
+<-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorLoredo&layout=compact&hide=python" alt="Igor Loredo" /> -->
 
 <img src="https://komarev.com/ghpvc/?username=IgorLoredo" alt="Igor Loredo" />

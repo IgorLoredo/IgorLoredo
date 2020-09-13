@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=IgorLoredo" alt="Igor Loredo" />
 
 
-<p align="center"> 
+<!---<p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=IgorLoredo&show_icons=true&theme=graywhite" /></a>
-</p> 
+</p> -->

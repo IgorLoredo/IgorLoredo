@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p> Meu nome é Igor, sou estudande de Sistemas de informação pela Universidade de São Paulo e técnico em Meio ambiente pelo Instituto Federal da Bahia.<p>
+<p> Meu nome é Igor, sou estudante de Sistemas de informação pela Universidade de São Paulo e técnico em Meio ambiente pelo Instituto Federal da Bahia.<p>
  <p>Sou Ex IT Developer no Santander Tecnologia trabalhei nos canais digitais PF<p>
    <p>Atualmente, sou Analista de Engenharia de TI no Itau unibanco<p>
     <p>Os projetos que desenvolvi já aferatam diretamente mais de 200 milhões de pessoas<p>

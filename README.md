@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p> Meu nome é Igor, sou estudante de Sistemas de informação pela Universidade de São Paulo e técnico em Meio ambiente pelo Instituto Federal da Bahia.<p>
- <p>Sou Ex IT Developer no Santander Tecnologia trabalhei nos canais digitais PF<p>
-   <p>Atualmente, sou Analista de Engenharia de TI no Itau unibanco<p>
-    <p>Os projetos que desenvolvi já aferatam diretamente mais de 200 milhões de pessoas<p>
- <p>Sou entusiasta pelo ramo da tecnologia e procuro sempre aprender mais<p>
+<p>My name is Igor. I am an Information Systems student at the University of São Paulo and an Environmental Technician from the Federal Institute of Bahia.</p>
 
-<p>Meus contatos: <p>
+<p>I am a former IT Developer at Santander Tecnologia, where I worked on digital channels for individual customers.</p>
+
+<p>I am currently an IT Engineering Analyst at Itaú Unibanco.</p>
+
+<p>The projects I have developed have already directly impacted more than 200 million people.</p>
+
+<p>I am passionate about the technology field and I am always looking to learn more.</p>
+
+<p>My contacts:</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-loredo-b1b318194/)](https://www.linkedin.com/in/igor-loredo-b1b318194/)
 [![E-mail](http://img.shields.io/badge/igorloredo12@gmail.com-red?logo=gmail&style=flat-square&logoColor=white)](mailto:igorloredo12@gmail.com)
